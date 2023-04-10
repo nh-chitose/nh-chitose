@@ -1,5 +1,7 @@
-### Hi there 👋
+### ちとせです
 ![Profile Views Count](https://komarev.com/ghpvc/?username=nh-chitose&color=fe489b&label=%E2%98%85Profile+views)  
+TypeScriptのお勉強中です。
+その他の言語: JavaScript, Perl, PHP, Python, CSS, GAS, VBA
 <!--
 **nh-chitose/nh-chitose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
